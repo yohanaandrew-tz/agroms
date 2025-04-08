@@ -7,7 +7,7 @@
 
 **Admin Login Details**
 Username: sara
-Password: saran123
+Password: sara123
 
 **Sample Customer Login Details**
 
