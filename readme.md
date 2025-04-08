@@ -1,4 +1,4 @@
-**Agrovert Products Ordering System Project in PHP and MySQL Free Download** 
+**Agrovert Products Ordering System Project in PHP and MySQL** 
 
 
 **Database Name: agroms_db**
