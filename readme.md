@@ -7,9 +7,9 @@
 
 **Admin Login Details**
 Username: sara
-Password: admin123
+Password: saran123
 
 **Sample Customer Login Details**
 
 Username: jackline
-Password: mcooper123
+Password: jack123
